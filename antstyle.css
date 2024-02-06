@@ -1,0 +1,39 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing:border-box ;
+    background: gainsboro;
+}
+body{
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: gray;
+    text-align: center;
+}
+.container{
+    color: black;
+    margin: auto;
+    text-align: center;
+}
+button{
+    margin: 10vh;
+    padding:12%;
+    align-items: center;
+    text-align: center;
+    color: darkgray;
+}
+h1{
+    color: blue;
+    margin: 100px;
+    padding: 10%;
+    align-items: center;
+}
+h2{
+    margin: auto;
+    text-align: center;
+    padding: 10vh;
+    color: coral;
+
+}
